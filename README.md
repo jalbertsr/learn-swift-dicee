@@ -3,7 +3,7 @@
 ### Description 
 
 
-Simple app that rall 2 dices with UIButton Control or with Shake Gesture
+Simple app that roll 2 dices with UIButton Control or with Shake Gesture
 
 
 ### Demo
