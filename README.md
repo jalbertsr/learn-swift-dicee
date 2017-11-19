@@ -1,7 +1,5 @@
 # Dicee App
 
----
-
 ### Description 
 
 
